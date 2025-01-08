@@ -33,3 +33,5 @@ Dataset awal memiliki **569 data dengan 30 fitur numerik**, yang diproses menggu
    ```bash
    git clone https://github.com/ryonlunar/random-forest-breast-cancer.git
    cd random-forest-breast-cancer
+
+2. Jalankan program implementasi_matdis.ipynb
